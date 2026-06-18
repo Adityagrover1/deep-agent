@@ -33,8 +33,3 @@ result = agent.invoke(
 ```
 
 See `examples/` for research, custom sub-agents, human-in-the-loop, and parallel fan-out.
-
-## Architecture & Workflow
-
-Full architecture, workflow, and diagrams are documented in the workspace root:
-[`../README.md`](../README.md) and [`../system_architecture.md`](../system_architecture.md).
